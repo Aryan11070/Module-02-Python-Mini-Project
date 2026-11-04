@@ -1,0 +1,7 @@
+# Personal Expense Tracker - Module 02
+# This project uses only Python 3 built-in libraries.
+# No external dependencies are required.
+#
+# Built-in modules used:
+# - json   : persistent storage
+# - os     : file path handling
